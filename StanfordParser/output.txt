@@ -1,0 +1,20 @@
+Tokenize: ['The', 'phone', 'has', 'a', 'good', 'screen', '.']
+
+
+Part of Speech: [('The', 'DT'), ('phone', 'NN'), ('has', 'VBZ'), ('a', 'DT'), ('good', 'JJ'), ('screen', 'NN'), ('.', '.')]
+
+
+Named Entities: [('The', 'O'), ('phone', 'O'), ('has', 'O'), ('a', 'O'), ('good', 'O'), ('screen', 'O'), ('.', 'O')]
+
+
+Constituency Parsing: (ROOT
+  (S
+    (NP (DT The) (NN phone))
+    (VP (VBZ has)
+      (NP (DT a) (JJ good) (NN screen)))
+    (. .)))
+
+
+Dependency Parsing: [('ROOT', 0, 3), ('det', 2, 1), ('nsubj', 3, 2), ('det', 6, 4), ('amod', 6, 5), ('obj', 3, 6), ('punct', 3, 7)]
+
+

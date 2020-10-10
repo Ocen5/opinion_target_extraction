@@ -1,20 +1,10 @@
-Tokenize: ['The', 'phone', 'has', 'a', 'good', 'screen', '.']
+Tokeninze:  ['The', 'phone', 'as', 'a', 'good', 'screen', 'This', 'code', 'has', 'a', 'nasty', 'bug', 'This', 'is', 'a', 'perfect', 'parser']
 
 
-Part of Speech: [('The', 'DT'), ('phone', 'NN'), ('has', 'VBZ'), ('a', 'DT'), ('good', 'JJ'), ('screen', 'NN'), ('.', '.')]
+Part Of Speech:  [('The', 'DT'), ('phone', 'NN'), ('as', 'IN'), ('a', 'DT'), ('good', 'JJ'), ('screen', 'NN'), ('This', 'DT'), ('code', 'NN'), ('has', 'VBZ'), ('a', 'DT'), ('nasty', 'JJ'), ('bug', 'NN'), ('This', 'DT'), ('is', 'VBZ'), ('a', 'DT'), ('perfect', 'JJ'), ('parser', 'NN')]
 
 
-Named Entities: [('The', 'O'), ('phone', 'O'), ('has', 'O'), ('a', 'O'), ('good', 'O'), ('screen', 'O'), ('.', 'O')]
+Dependency Parse:  [('ROOT', 0, 9), ('det', 2, 1), ('nsubj', 9, 2), ('case', 6, 3), ('det', 6, 4), ('amod', 6, 5), ('nmod', 2, 6), ('det', 8, 7), ('nsubj', 9, 8), ('det', 12, 10), ('amod', 12, 11), ('dep', 17, 12), ('nsubj', 17, 13), ('cop', 17, 14), ('det', 17, 15), ('amod', 17, 16), ('ccomp', 9, 17)]
 
 
-Constituency Parsing: (ROOT
-  (S
-    (NP (DT The) (NN phone))
-    (VP (VBZ has)
-      (NP (DT a) (JJ good) (NN screen)))
-    (. .)))
-
-
-Dependency Parsing: [('ROOT', 0, 3), ('det', 2, 1), ('nsubj', 3, 2), ('det', 6, 4), ('amod', 6, 5), ('obj', 3, 6), ('punct', 3, 7)]
-
-
+lista dei potenziali target:  {'parser', 'bug', 'screen'}

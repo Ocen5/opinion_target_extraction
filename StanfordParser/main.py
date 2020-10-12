@@ -22,7 +22,14 @@ Tokenize, POS, Dependency = SCnlp.SC(local_corenlp_path, input)
 
 sys.stdout = open("output.txt", "w")
 
+print("REGOLA 1")
+print('\n')
 target = SCnlp.R1(local_corenlp_path, input)
-print("lista dei potenziali target: ", set(target))
+print("lista dei potenziali target: ", target)
+print('\n')
+print("REGOLA 2")
+print('\n')
+opinion = SCnlp.R2(local_corenlp_path, input)
+print("lista delle potenziali opinion words: ", opinion)
 
 sys.stdout.close()

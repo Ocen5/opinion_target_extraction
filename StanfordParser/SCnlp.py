@@ -26,7 +26,6 @@ def SC(local_corenlp_path, input):
 
 def R1(local_corenlp_path, input):
 
-  #nlp = StanfordCoreNLP(local_corenlp_path, quiet=False, logging_level=logging.DEBUG)
 
   toke, pos, depe = SC(local_corenlp_path, input)
 

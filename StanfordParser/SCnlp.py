@@ -41,12 +41,11 @@ def R1(local_corenlp_path, input):
 
   Op = 'opinion-lexicon-English/positive-words.txt'
   On = 'opinion-lexicon-English/negative-words.txt'
-  val = 'JJ'
+  val = ['JJ', 'JJS', 'JJR']
 
   for item in pos:
-    if item[1] == val:
+    if item[1] in val:
       agg = item[0]
-
       with open(Op) as myfile:
         if agg in myfile.read():
           label = 'positive'
@@ -59,11 +58,25 @@ def R1(local_corenlp_path, input):
             if items[0] in MR:
               opinion = items[2]
               target = items[1]
-              o = tok[opinion-1]
-              t = tok[target-1]
-              list_target.append(t)
+              if pos[target - 1].__contains__('NN') or pos[target - 1].__contains__('NNS'):
+                o = tok[opinion-1]
+                t = tok[target-1]
+                list_target.append(t)
+                #O-->O-dep-->T
+
+              for items in depe:
+                if items[0] == 'nsubj':
+                  if items[1] == target:
+                    target = items[2]
+                    if pos[target-1].__contains__('NN') or pos[target-1].__contains__('NNS'):
+                      t = tok[target-1]
+                      list_target.append(t)
+                      #O-->O-dep-->H<--T-dep<--T
+
+
 
   return set(list_target)
+
 
 def R2(local_corenlp_path, input):
 
@@ -75,10 +88,10 @@ def R2(local_corenlp_path, input):
 
 
   tok = np.array(toke)
-  val = 'NN'
+  val = ['NN', 'NNS']
 
   for item in pos:
-    if item[1] == val:
+    if item[1] in val:
       sost = item[0]
 
       if sost in list_target:
@@ -87,9 +100,21 @@ def R2(local_corenlp_path, input):
           if items[0] in MR:
             opinion = items[2]
             target = items[1]
-            o = tok[opinion-1]
-            t = tok[target-1]
-            list_opinion.append(o)
+            if pos[opinion - 1].__contains__('JJ') or pos[opinion - 1].__contains__('JJS') \
+                    or pos[opinion - 1].__contains__('JJR'):
+              o = tok[opinion-1]
+              t = tok[target-1]
+              list_opinion.append(o)
+              #O-->O-dep-->T
+
+            for items in depe:
+              if items[0] == 'nsubj':
+                if items[1] == target:
+                  if pos[opinion-1].__contains__('JJ') or pos[opinion-1].__contains__('JJS') \
+                          or pos[opinion-1].__contains__('JJR'):
+                    o = tok[opinion - 1]
+                    list_opinion.append(o)
+                    # O-->O-dep-->H<--T-dep<--T
 
   return set(list_opinion)
 

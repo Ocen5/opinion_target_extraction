@@ -27,6 +27,7 @@ print('\n')
 target = SCnlp.R1(local_corenlp_path, input)
 print("lista dei potenziali target: ", target)
 print('\n')
+
 print("REGOLA 2")
 print('\n')
 opinion = SCnlp.R2(local_corenlp_path, input)

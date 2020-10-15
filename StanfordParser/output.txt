@@ -1,10 +1,28 @@
-Tokeninze:  ['The', 'phone', 'as', 'a', 'good', 'screen', 'This', 'code', 'has', 'a', 'nasty', 'bug', 'This', 'is', 'a', 'perfect', 'parser']
+REGOLA 1
 
 
-Part Of Speech:  [('The', 'DT'), ('phone', 'NN'), ('as', 'IN'), ('a', 'DT'), ('good', 'JJ'), ('screen', 'NN'), ('This', 'DT'), ('code', 'NN'), ('has', 'VBZ'), ('a', 'DT'), ('nasty', 'JJ'), ('bug', 'NN'), ('This', 'DT'), ('is', 'VBZ'), ('a', 'DT'), ('perfect', 'JJ'), ('parser', 'NN')]
+Tokeninze:  ['ipod', 'is', 'the', 'best', 'mp3', 'player', 'this', 'code', 'has', 'a', 'nasty', 'bug']
 
 
-Dependency Parse:  [('ROOT', 0, 9), ('det', 2, 1), ('nsubj', 9, 2), ('case', 6, 3), ('det', 6, 4), ('amod', 6, 5), ('nmod', 2, 6), ('det', 8, 7), ('nsubj', 9, 8), ('det', 12, 10), ('amod', 12, 11), ('dep', 17, 12), ('nsubj', 17, 13), ('cop', 17, 14), ('det', 17, 15), ('amod', 17, 16), ('ccomp', 9, 17)]
+Part Of Speech:  [('ipod', 'NN'), ('is', 'VBZ'), ('the', 'DT'), ('best', 'JJS'), ('mp3', 'NN'), ('player', 'NN'), ('this', 'DT'), ('code', 'NN'), ('has', 'VBZ'), ('a', 'DT'), ('nasty', 'JJ'), ('bug', 'NN')]
 
 
-lista dei potenziali target:  {'parser', 'bug', 'screen'}
+Dependency Parse:  [('ROOT', 0, 6), ('nsubj', 6, 1), ('cop', 6, 2), ('det', 6, 3), ('amod', 6, 4), ('compound', 6, 5), ('det', 8, 7), ('nsubj', 9, 8), ('parataxis', 6, 9), ('det', 12, 10), ('amod', 12, 11), ('obj', 9, 12)]
+
+
+lista dei potenziali target:  {'ipod', 'player', 'bug'}
+
+
+REGOLA 2
+
+
+Tokeninze:  ['ipod', 'is', 'the', 'best', 'mp3', 'player', 'this', 'code', 'has', 'a', 'nasty', 'bug']
+
+
+Part Of Speech:  [('ipod', 'NN'), ('is', 'VBZ'), ('the', 'DT'), ('best', 'JJS'), ('mp3', 'NN'), ('player', 'NN'), ('this', 'DT'), ('code', 'NN'), ('has', 'VBZ'), ('a', 'DT'), ('nasty', 'JJ'), ('bug', 'NN')]
+
+
+Dependency Parse:  [('ROOT', 0, 6), ('nsubj', 6, 1), ('cop', 6, 2), ('det', 6, 3), ('amod', 6, 4), ('compound', 6, 5), ('det', 8, 7), ('nsubj', 9, 8), ('parataxis', 6, 9), ('det', 12, 10), ('amod', 12, 11), ('obj', 9, 12)]
+
+
+lista delle potenziali opinion words:  {'best', 'nasty'}

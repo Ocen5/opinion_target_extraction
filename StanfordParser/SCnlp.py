@@ -150,9 +150,35 @@ def R3(local_corenlp_path, input, file_target):
         if n in myfile.read():
           t = item[2]
           for item in pos:
-            if item[1].__contains__('NN'):
+            if item[1].__contains__('NN') or item[1].__contains__('NNS') :
               target = tok[t-1]
               list_target.append(target)
 
   return set(list_target)
 
+def R4(local_corenlp_path, input, file_opinion):
+
+  toke, pos, depe = SC(local_corenlp_path, input)
+  list_opinion = []
+
+  print("Tokeninze: ", toke)
+  print('\n')
+  print("Part Of Speech: ", pos)
+  print('\n')
+  print("Dependency Parse: ", depe)
+  print('\n')
+
+  tok = np.array(toke)
+  for item in depe:
+    if item[0] == 'conj':
+      a = tok[item[1]-1]
+      with open(file_opinion) as myfile:
+        if a in myfile.read():
+          o = item[2]
+          for item in pos:
+            if item[1].__contains__('JJ') or item[1].__contains__('JJS') \
+                    or item[1].__contains__('JJR'):
+              opinion = tok[o-1]
+              list_opinion.append(opinion)
+
+  return set(list_opinion)

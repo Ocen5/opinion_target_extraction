@@ -3,14 +3,14 @@ import sys
 from nltk.tokenize import sent_tokenize
 import nltk
 local_corenlp_path = 'stanford-corenlp-4.0.0/stanford-corenlp-4.0.0'
-'''
+
 with open('input.txt', 'r') as infile, \
         open('input_processato.txt', 'w') as outfile:
   data = infile.read()
-  data = data.replace(".", "")
+  #data = data.replace(".", "")
   data = data.replace(",", "")
   outfile.write(data)
-'''
+
 '''
 text = open('input_processato.txt', 'r')
 lines = text.readlines()
@@ -20,7 +20,7 @@ for i in lines:
 '''
 
 nltk.download('punkt')
-text = open("input.txt").read()
+text = open("input_processato.txt").read()
 sentences = sent_tokenize(text)
 
 
@@ -57,12 +57,22 @@ targe = 'target.txt'
 for input in sentences:
     print("REGOLA 3")
     print('\n')
-    targ=SCnlp.R3(local_corenlp_path, input, targe)
+    targ = SCnlp.R3(local_corenlp_path, input, targe)
     for element in targ:
         target.write(element)
         target.write('\n')
 
 target.close()
 
+opinion = open('opinion.txt', 'a')
+opin = 'opinion.txt'
+for input in sentences:
+    print("REGOLA 4")
+    print('\n')
+    op = SCnlp.R4(local_corenlp_path, input, opin)
+    for element in op:
+        opinion.write(element)
+        opinion.write('\n')
 
+opinion.close()
 

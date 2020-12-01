@@ -1,0 +1,347 @@
+,Sentence,Target Estratti,Target Gold,Correct Target,Opinion Estratti,Polarity Estratta,Polarity Gold,Correct Polarity
+0,this camera is perfect for an enthusiastic amateur photographer .,['photographer'],['camera'],no,['enthusiastic'],['positive'],['positive'],si
+1,the pictures are razor-sharp  even in macro .,['macro'],"['picture', 'macro']",si,['NA'],['NA'],"['positive', 'positive']",no
+2,it is small enough to fit easily in a coat pocket or purse .,['NA'],['size'],no,['NA'],['NA'],['positive'],no
+3,it is light enough to carry around all day without bother .,['day'],['weight'],no,['NA'],['NA'],['positive'],no
+4,operating its many features is easy and often obvious - i 'm no annie lebovitz  but i was able to figure out most of its abilities just messing around with it at a camera store .,"['features', 'obvious']",['feature'],no,"['many', 'obvious']","['positive', 'NA']",['positive'],si
+5,the manual does a fine job filling in any blanks that remain .,['job'],['manual'],no,['fine'],['positive'],['positive'],si
+6,the auto-focus performs well  but i love having the 12 optional scene modes - they are dummy-proof  and correspond to many situations in which i would actually seek to use the camera .,"['proof', 'situations', 'modes', 'correspond']","['auto', 'focus', 'scene', 'mode']",no,"['dummy', 'many', 'optional', 'correspond']","['positive', 'positive', 'NA', 'NA']","['NA1', 'positive', 'NA1', 'positive']",si
+7,comes with a 16 mb compact flash and one rechargable battery the charging unit  included  is fast and small .,"['battery', 'flash', 'unit', 'battery']","['rechargable', 'battery']",si,"['compact', 'rechargable']","['positive', 'NA']","['NA1', 'positive']",si
+8,i bought a 256 mb cf and a second battery  so it 's good to go on a long vacation .,"['vacation', 'battery', 'battery']",['NA1'],no,"['long', 'second']","['positive', 'negative']",['NA1'],no
+9,i enthusiastically recommend this camera .,['NA'],['camera'],no,['NA'],['NA'],['positive'],no
+10,i got my camera three days back  and although i had some experience with digital cameras prior to purchasing this one  i still rate myself as a beginner .,['cameras'],['NA1'],no,['digital'],['NA'],['NA1'],no
+11,i bought this camera because it fit my budget and the pre-production and production model reviews were positive .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+12,it 's easy to use  and yet very feature rich .,"['feature', 'feature']","['camera', 'use', 'feature']",si,"['rich', 'feature']","['positive', 'positive']","['positive', 'positive', 'positive']",si
+13,in the auto mode it functions basically as a point and click  the scene modes are very easy to use and produce good results .,"['results', 'point', 'click', 'produce']","['auto', 'mode', 'scene', 'mode']",no,"['good', 'produce']","['positive', 'NA']","['NA1', 'positive', 'NA1', 'positive']",si
+14,the manual mode is feature rich and i can 't wait to get the hang of it .,"['mode', 'feature', 'wait']","['manual', 'mode']",si,"['rich', 'manual', 'wait']","['positive', 'NA', 'NA']","['NA1', 'positive']",si
+15,the macro mode is exceptional  the pictures are very clear and you can take the pictures with the lens unbelievably close the subject .,"['mode', 'subject']","['macro', 'mode', 'picture']",si,['macro'],['NA'],"['NA1', 'positive', 'positive']",no
+16,the battery life is very good  i got about 90 minutes with the lcd turned on all the time  the first time around  and i have been using it with the lcd off every now and then  and have yet needed to recharge it .,"['time', 'then']","['battery', 'life']",no,"['first', 'using', 'needed']","['positive', 'positive', 'negative']","['NA1', 'positive']",si
+17,the camera comes with a lexar 16mb starter card  which stores about 10 images in fine mode at the highest resolution  i intend to buy a bigger card soon .,"['mode', 'resolution', 'card']",['NA1'],no,"['16mb', 'fine', 'highest', 'bigger']","['NA', 'positive', 'NA', 'NA']",['NA1'],no
+18,i love photography .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+19,i had an older camera that was simply a point and shoot camera .,"['camera', 'point', 'camera']",['NA1'],no,['older'],['negative'],['NA1'],no
+20,i needed something with more power  so i bought a nikon coolpix 4300 .,['power'],['NA1'],no,['more'],['NA'],['NA1'],no
+21,i fell in love with this camera  it combines ease of use  with an immense amount of options and power .,['amount'],"['camera', 'use']",no,['immense'],['positive'],"['positive', 'positive']",si
+22,you can use the scene modes  or fine tune the options  i. you can change the iso level  shutter speed  etc.,"['tune', 'tune']",['NA1'],no,['fine'],['positive'],['NA1'],no
+23,this camera is ideal for people who want more power  but do n't want to spend 1000s dollars on a camera .,"['power', 'want']",['camera'],no,['more'],['NA'],['positive'],no
+24,i bought coolpix 4300 two months after i had bought canon powershot s400 .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+25,reason for two .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+26,it was not easy sharing one with my teen age kid .,['sharing'],['NA1'],no,['easy'],['positive'],['NA1'],no
+27,the two cameras are very similar in functionality and pricing .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+28,i 've had no problem with canon whatsoever .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+29,with nikon  although picture qualities are as good as any other 4 mp cameras  i 've had the following headaches,"['cameras', 'headaches']","['picture', 'quality']",no,['other'],['positive'],"['NA1', 'positive']",si
+30,1 . pictures wo n't transfer to pc directly from the camera using the included transfer cable .,['NA'],['transfer'],no,['NA'],['NA'],['negative'],no
+31,i did everything i could  and it took many days of frustration before concluding that the only way to transfer to pc is with the card reader .,"['days', 'way']",['NA1'],no,"['many', 'only']","['positive', 'NA']",['NA1'],no
+32,card reader is included .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+33,2 . the speed is noticeably slower than canon  especially so with flashes on .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+34,3 . with low battery  it twice wiped out the entire pictures in the memory chip .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+35,i used lexar 256 mb and i still use it which means nothing is wrong with lexar .,['mb'],['NA1'],no,"['lexar', 'use']","['NA', 'positive']",['NA1'],no
+36,be very careful when the battery is low and make sure to carry extra batteries .,['batteries'],['NA1'],no,"['extra', 'make']","['positive', 'negative']",['NA1'],no
+37,the other reviewers have clearly pointed all the good things about this camera  which i do agree .,"['things', 'reviewers']",['NA1'],no,"['other', 'good']","['positive', 'positive']",['NA1'],no
+38,but there are certain issues might be they are to me here - all of them are minor not major ones though,"['ones', 'issues']",['NA1'],no,"['major', 'certain']","['NA', 'negative']",['NA1'],no
+39,. this camera keeps on autofocussing in auto mode with a buzzing sound which can 't be stopped .,['NA'],"['auto', 'mode']",no,['NA'],['NA'],"['NA1', 'negative']",no
+40,would be really good if they have given an option to stop this autofocussing .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+41,. if you want to have the date  time on the image  its only through their software  nikon view  which reads the images date  time from the images meta-data .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+42,so if you use your card reader  copy images - you got to onceagain open them through their software to put the date  time .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+43,in that too  there is n't a direct way to add date  time - you got to say ' print images ' to a different directory in which there is an option to specify the date  time .,"['directory', 'way']",['NA1'],no,"['different', 'direct']","['negative', 'negative']",['NA1'],no
+44,. even the slightest of the shakes totally distorts your image,['NA'],['image'],no,['NA'],['NA'],['negative'],no
+45,. images taken indoor were n't so clear .,['NA'],"['indoor', 'image']",no,['NA'],['NA'],"['NA1', 'negative']",no
+46,you got to have flash ' on ' to get it eventhough your room is well lit,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+47,. lens cap is a really annoying,['NA'],"['lens', 'cap']",no,['NA'],['NA'],"['NA1', 'negative']",no
+48,. go  get a high speed like lexar 12x or higher cf card .,['cf'],['NA1'],no,['cf'],['NA'],['NA1'],no
+49,else with simpler viking cf cards  it takes couple of seconds to write a picture with approximately  fine ** picture quality   image size . 1600 .,"['cards', 'size']",['NA1'],no,"['fine', 'simpler']","['positive', 'positive']",['NA1'],no
+50,. the movie clips taken will always have some ' noise ' in it - you can 't avoid that .,['NA'],['movie'],no,['NA'],['NA'],['negative'],no
+51,but overall this is a good camera with a ' really good ' picture clarity  an exceptional close-up shooting capability .,"['capability', 'camera', 'clarity']","['camera', 'picture', 'close-up', 'shooting']",si,"['exceptional', 'good']","['positive', 'positive']","['positive', 'positive', 'NA1', 'positive']",si
+52,i would rate this is 4.5 stars picture quality  image size defined above are specific to nikon coolpix .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+53,within a year  there are problems with my menu dial knob .,['NA'],"['menu', 'dial', 'knob']",no,['NA'],['NA'],"['NA1', 'NA1', 'negative']",no
+54,it became stucked which makes it almost impossible to switch between modes .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+55,i send my camera to nikon for servicing  took them a whole 6 weeks to diagnose the problem .,['weeks'],['servicing'],no,['whole'],['positive'],['negative'],no
+56,worse of all  they claim that it 's some kind of internal damage and refuse to cover the cost via warranty .,['damage'],['NA1'],no,"['worse', 'internal']","['negative', 'NA']",['NA1'],no
+57,they would n't repair my camera unless if i pay $ 100 for parts . and labor .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+58,it is a good camera in terms of the function and quality  but take your chance with it because nikon absolutely sucks when it comes to customer service .,"['camera', 'quality', 'take']","['camera', 'customer', 'service']",si,['good'],['positive'],"['positive', 'NA1', 'negative']",si
+59,got a  system error  problem 30 days after purchase .,['NA'],"['system', 'error']",no,['NA'],['NA'],"['NA1', 'negative']",no
+60,made the camera totally inoperable .,['NA'],['camera'],no,['NA'],['NA'],['negative'],no
+61,also  the lens cap design is flawed .,['NA'],"['lens', 'cap']",no,['NA'],['NA'],"['NA1', 'negative']",no
+62,you have to manually take the cap off in order to use it .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+63,audio on video also lacking .,['NA'],['audio'],no,['NA'],['NA'],['negative'],no
+64,otherwise  it takes very good pictures  shutter delay is n't so bad either .,['delay'],"['picture', 'delay']",si,['good'],['positive'],"['positive', 'positive']",si
+65,still  had to send it back to nikon for repair .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+66,i am an amateur photographer and here is a piece of advise to all the folks who are thinking about making a move the digital world .,"['piece', 'move', 'world', 'piece']",['NA1'],no,['digital'],['NA'],['NA1'],no
+67,nikon 4300  i feel  is the best camera out there for the features and price .,"['camera', 'price']",['camera'],si,"['best', 'price']","['positive', 'positive']",['positive'],si
+68,here were my requirements in a digital camera .,['camera'],['NA1'],no,['digital'],['NA'],['NA1'],no
+69,1 . i had initially thought of buying a 2 or 3 megapixel camera but these are good for 4x6  or 5x7  prints and i wanted some really great 8x10  photos once in a while .,['NA'],['NA1'],no,['4x6'],['NA'],['NA1'],no
+70,2 . i did not want a very small camera as it seems to get lost in my hands and i was n't comfortable with that .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+71,i wanted a decent sized camera with a contour for my fingers to hold it steadily .,['camera'],['NA1'],no,"['decent', 'sized']","['positive', 'negative']",['NA1'],no
+72,3 . i wanted a camera that had a lot of built-in settings for different types of suroundings while giving me an option to use my photography skills although  i am an amateur with an interest in photography by turning on the manual settings .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+73,4 . and  of course  i wanted a respected brand and had to stay within my budget because i had bought an expensive camcorder before but had n't used it much .,['had'],['NA1'],no,"['expensive', 'had']","['positive', 'negative']",['NA1'],no
+74,depending on all the above requirements  i had narrowed down my search to nikon 4300 and canon powershot s400 models .,['requirements'],['NA1'],no,['above'],['NA'],['NA1'],no
+75,nikon got the final nod for its settings auto and manual along with movie modes  medium compact size  price  brand name  good software that is included and previous reviews .,"['reviews', 'software', 'size', 'nod']",['NA1'],no,"['compact', 'good', 'medium', 'final', 'previous', 'reviews']","['positive', 'positive', 'NA', 'NA', 'NA', 'NA']",['NA1'],no
+76,i should say i have been very happy with my decision ever since .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+77,the pictures are absolutely amazing - the camera captures the minutest of details .,['NA'],['picture'],no,['NA'],['NA'],['positive'],no
+78,a few things that might make it even better .,['things'],['NA1'],no,['few'],['NA'],['NA1'],no
+79,1 . pictures taken in an indoor setting are a little dull and rarely hazy if you tend to take photographs from a distance .,['and'],"['indoor', 'picture']",no,"['dull', 'and']","['negative', 'positive']","['NA1', 'negative']",si
+80,2 . it takes a while for the camera to actually capture the photograph from the time you click the button and i have seen people becoming a little impatient waiting for the flash to glow .,['NA'],['delay'],no,['NA'],['NA'],['negative'],no
+81,3 . the pictures come out hazy if your hands shake even for a moment during the entire process of taking a picture .,['NA'],['picture'],no,['NA'],['NA'],['negative'],no
+82,all the above  i think  are problems with all the digital cameras out there and so i have no major complaints .,"['cameras', 'complaints']",['NA1'],no,"['digital', 'major']","['NA', 'NA']",['NA1'],no
+83,try to buy a tripod and that should solve some of those problems .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+84,whichever camera you buy  add upto about 200 dollars for an additional memory card i bought a 256 mb card  usb card reader  camera bag and the warranty .,"['card', 'warranty']",['NA1'],no,['additional'],['NA'],['NA1'],no
+85,and finally  get your pictures developed at a kodak picture maker machine even though it costs you a little extra - no one can beat kodak processing in terms of clarity and brightness .,"['one', 'brightness']",['NA1'],no,"['extra', 'little']","['positive', 'negative']",['NA1'],no
+86,hope this review has helped you in making up your mind .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+87,i have taken about 150 photographs so far and have absolutely loved the experience .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+88,i am looking forward to my vegas trip for some great photographs now .,['photographs'],['NA1'],no,['great'],['positive'],['NA1'],no
+89,with our compact 35mm broken  and a vacation in europe at hand  i finally decided to enter the digital age .,"['age', 'mm']",['NA1'],no,"['compact', 'digital']","['positive', 'NA']",['NA1'],no
+90,i first intended to buy the 3100  but am really happy to invest the extra money for the 4300 .,['money'],['NA1'],no,['extra'],['positive'],['NA1'],no
+91,the lense is a lot better  and the 4mb produce fantastic pictures .,['pictures'],['NA1'],no,"['fantastic', 'produce']","['positive', 'NA']",['NA1'],no
+92,the possibilities with auto  manual  and the very helpful  scene  mode  which offers 11 optimized situational settings like portrait  landscape  beach / snow  sunset etc.  are endless .,"['mode', 'settings', 'sunset']","['auto', 'mode', 'manual', 'mode', 'scene', 'mode']",si,"['situational', 'helpful', 'mode']","['NA', 'positive', 'positive']","['NA1', 'positive', 'NA1', 'positive', 'NA1', 'positive']",si
+93,the movie mode is also working great .,['NA'],"['movie', 'mode']",no,['NA'],['NA'],"['NA1', 'positive']",no
+94,the 4300 comes with excellent easy to install software i use it on xp and win98 without problem  battery charger  usb and video cable .,['win98'],['software'],no,['win98'],['NA'],['positive'],no
+95,a 64mb flash card camera comes with a 16mb holds 52 pictures on  normal  resolution .,"['resolution', 'camera']",['NA1'],no,"['normal', '64mb']","['negative', 'NA']",['NA1'],no
+96,i experimented with online print ordering with the two major us brick and mortar retailers  and they both delivered great results .,"['print', 'results', 'retailers']",['print'],si,"['online', 'major', 'great']","['NA', 'NA', 'positive']",['positive'],si
+97,even at the  normal  setting  a 8x10 print . shows not a single sign of visible rendering or pixels - you could never tell that the picture has been taken by a  digital  .,"['print', 'shows']",['print'],si,['normal'],['negative'],['positive'],no
+98,the battery life is ok  but can be somewhat short when working a lot with the monitor on .,['short'],"['battery', 'life']",no,['NA'],['NA'],"['NA1', 'positive']",no
+99,i therefore bought a second battery as a backup  and due to the lightingfast charging with the included charger  which by the way works on 110v as well as 220v in europe  we ran never out of  juice  .,"['battery', 'charger']",['NA1'],no,['second'],['negative'],['NA1'],no
+100,i highly recommend the accessory kit  which provides you with everything else you need .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+101,a nice camera bag  which holds camera plus all the cables and the charger .,"['bag', 'charger', 'cables']",['NA1'],no,['nice'],['positive'],['NA1'],no
+102,furher it contains a card reader  a flash card folder for up to 8 cards  a lense cleaning rag  and an ac adapter  which is very helpful when working in an  outlet environment  .,['rag'],['NA1'],no,['furher'],['NA'],['NA1'],no
+103,over all a fantastic very compact camera  which made us experience photography on a totally new level .,"['level', 'camera']",['camera'],si,"['compact', 'fantastic', 'new']","['positive', 'positive', 'positive']",['positive'],si
+104,after reading all the glowing review on this camera  i went to my local camera shop to try one .,"['shop', 'review']",['NA1'],no,"['local', 'glowing']","['NA', 'positive']",['NA1'],no
+105,i currently own an olympus d-550 which takes wonderful outdoor pictures .,['pictures'],['NA1'],no,"['wonderful', 'outdoor']","['positive', 'NA']",['NA1'],no
+106,however  indoor pictures of subjects more than a few feet away can be blurry or grainy .,['pictures'],['NA1'],no,"['more', 'indoor']","['NA', 'NA']",['NA1'],no
+107,anyway  in the store  i tried coolpix 4300 along with two other 4mp models minolta dimage s414  and panasonic lumix .,['models'],['NA1'],no,['other'],['positive'],['NA1'],no
+108,focusing on a display rack about 20 feet away in a brightly lit room during day time  pictures produced by this camera were blurry and in a shade of orange .,"['rack', 'room']",['picture'],no,['NA'],['NA'],['negative'],no
+109,pictures produced by the minolta were orange but not blurry .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+110,pictures produced by the panasonic were excellent .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+111,the store clerk concluded that the blurriness may be caused by shaking the camera slightly when i press the button  which is understandable since this camera is lighter than the other two models .,['models'],['NA1'],no,['other'],['positive'],['NA1'],no
+112,anyway  i ended up purchasing the lumix .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+113,i 'm sure that this camera has all the wonderful features that others talk about .,['features'],['NA1'],no,['wonderful'],['positive'],['NA1'],no
+114,however  as an average person with unsteady hands  i doubt it 'll perform well in lower light settings .,"['settings', 'person', 'hands']",['NA1'],no,"['unsteady', 'lower', 'light', 'average']","['negative', 'positive', 'positive', 'NA']",['NA1'],no
+115,i purchased the nikon 4300 after several weeks of searching .,['weeks'],['NA1'],no,['several'],['NA'],['NA1'],no
+116,the value  name  and resolution signed the lease .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+117,after nearly 800 pictures i have found that this nikon takes incredible pictures .,['pictures'],['picture'],no,['incredible'],['positive'],['positive'],si
+118,the digital zoom takes as good of pictures  as the optical zoom does .,['zoom'],"['digital', 'zoom', 'optical', 'zoom']",si,"['digital', 'optical', 'good']","['NA', 'NA', 'positive']","['NA1', 'positive', 'NA1', 'positive']",si
+119,the inside pics  can be a bit challenging  but when you can instantly delete pics you dont like  that are not focused perfectly  or need lighting adjustments  make this camera very simple and effective .,['pics'],['picture'],no,"['inside', 'effective']","['NA', 'positive']",['negative'],no
+120,i love all of the features  and presets as well .,['presets'],['feature'],no,['NA'],['NA'],['positive'],no
+121,sunset feature takes incredible pics in the morning  and the evening .,['pics'],"['sunset', 'feature']",no,"['incredible', 'evening']","['positive', 'NA']","['NA1', 'positive']",si
+122,the software you get with this camera is perfect .,['NA'],['software'],no,['NA'],['NA'],['positive'],no
+123,touchups  redeye  and so on are very easy to alter  and correct .,['NA'],"['touchup', 'redeye']",no,['NA'],['NA'],"['positive', 'positive']",no
+124,i definately recommend a large memory card .,['card'],['NA1'],no,['large'],['positive'],['NA1'],no
+125,i use a 128mb card  and usually get around 70 to 100 pics 1024-1280 res.  with good resolution .,['get'],['NA1'],no,['get'],['positive'],['NA1'],no
+126,very large pics take 8mb each .,['pics'],['NA1'],no,['large'],['positive'],['NA1'],no
+127,battery life is good  although i recommend two rechargebles  or a alkaline backup  for those emergency pics you have to have .,['NA'],"['battery', 'life']",no,['NA'],['NA'],"['NA1', 'positive']",no
+128,all and all  i am extremely pleased with this camera .,['pleased'],['camera'],no,['pleased'],['positive'],['positive'],si
+129,making the step from film to digital has been a great move .,['move'],['NA1'],no,['great'],['positive'],['NA1'],no
+130,i find myself emailing pics to everyone i know .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+131,great camera  great investment .,['investment'],['camera'],no,['great'],['positive'],['positive'],si
+132,this is my second digital camera  though i also use one at work and have some experience with several nikon and canon models .,"['camera', 'models', 'have']",['NA1'],no,"['digital', 'several', 'second', 'have']","['NA', 'NA', 'negative', 'positive']",['NA1'],no
+133,the nikon coolpix 4300 is wonderful -- easy to use  high quality  and compact in size .,"['quality', 'compact']","['use', 'quality', 'size']",si,"['high', 'compact']","['positive', 'positive']","['positive', 'positive', 'positive']",si
+134,with an extra battery and a couple of good sized memory cards you are all set for a day of picture taking while on vacation .,"['battery', 'cards', 'couple']",['NA1'],no,"['good', 'sized', 'extra']","['positive', 'negative', 'positive']",['NA1'],no
+135,the auto setting does a great job most of the time but there are manual settings for those who want them .,"['settings', 'job']","['auto', 'setting']",no,"['most', 'great', 'manual', 'are']","['positive', 'positive', 'NA', 'positive']","['NA1', 'positive']",si
+136,if something were to happen to my nikon coolpix 4300  i would order another just like it .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+137,after much research i decided on the nikon coolpix 4300 .,['research'],['NA1'],no,['much'],['NA'],['NA1'],no
+138,it has many great features and very few bad ones .,"['ones', 'features', 'ones']",['camera'],no,"['many', 'few', 'bad', 'great', 'ones']","['positive', 'NA', 'negative', 'positive', 'positive']",['positive'],si
+139,it takes excellent pics and is very easy to use  if you read the manual .,['pics'],"['picture', 'ease', 'of', 'use']",no,"['excellent', 'easy']","['positive', 'positive']","['positive', 'NA1', 'NA1', 'positive']",si
+140,if you cant get great pics from this camera its because you havent read the manual .,['pics'],['NA1'],no,['great'],['positive'],['NA1'],no
+141,the only things i have found that i havent liked is that the lcd is hard to read in daylight but everyone elses is too .,['things'],['lcd'],no,['only'],['NA'],['negative'],no
+142,downloads are a snap and quick .,['NA'],['download'],no,['NA'],['NA'],['positive'],no
+143,controls easy yo use and easy to get to .,"['use', 'easy']",['control'],no,"['easy', 'easy']","['positive', 'positive']",['positive'],si
+144,i 'm extremely glad i bought this camera .,['NA'],['camera'],no,['NA'],['NA'],['positive'],no
+145,really happy with this little camera .,['camera'],['camera'],si,['little'],['negative'],['positive'],no
+146,it is n't big and offensive  though you would n't know it by looking at the pics it takes .,['NA'],['size'],no,['offensive'],['negative'],['positive'],no
+147,got it for christmas  still learning a few of the settings  but i do n't take pictures every single day .,['day'],['NA1'],no,['single'],['NA'],['NA1'],no
+148,settings for just about everything  beautiful pics and beautiful prints .,"['pics', 'everything', 'prints', 'prints']","['picture', 'print']",no,['beautiful'],['positive'],"['positive', 'positive']",si
+149,i expected the 12x digital zoom to be grainy  but onfull size high to fine quality  the zoomed images are quite impressive .,"['images', 'quality', 'size', 'zoom']","['zoomed', 'image']",no,"['digital', 'fine', 'high']","['NA', 'positive', 'positive']","['NA1', 'positive']",si
+150,did buy a 256mb compact flash  it holds a lot of pics at any resolution .,['flash'],['NA1'],no,"['compact', '256mb']","['positive', 'NA']",['NA1'],no
+151,i only wish you could get high quality tiff images at all resolutions  but does n't seem any of the buget cameras do .,"['quality', 'seem']",['NA1'],no,['high'],['positive'],['NA1'],no
+152,still  at least from my perspective  a great camera for the money  and i 'm a happy camper .,"['camper', 'perspective', 'camera', 'camper']",['camera'],si,"['great', 'happy']","['positive', 'positive']",['positive'],si
+153,this is a wonderful camera .,['camera'],['camera'],si,['wonderful'],['positive'],['positive'],si
+154,my wife and i read and read and read reviews on different cameras for months .,['cameras'],['NA1'],no,['different'],['negative'],['NA1'],no
+155,in the end this is the one that we decided upon and since have never had buyer 's remorse .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+156,4 mp gives you room for the future gaining experience  cost offsets over time from wanting more in a camera  3x optical and the fact that it carries nikon 's quality reputation behind it make the whole package prove itself worthwile at the price .,"['3x', 'package', 'reputation']","['4mp', 'optical', 'zoom']",no,"['optical', 'quality', 'whole']","['NA', 'positive', 'positive']","['positive', 'NA1', 'positive']",si
+157,one neat thing - i have taken some pictures in what i thought would be impossible lighting conditions pitch black rooms - no problem for the camera - rooms looked like they had ample lighting .,"['conditions', 'rooms', 'thing', 'lighting']",['picture'],no,"['ample', 'neat', 'black', 'impossible']","['positive', 'positive', 'negative', 'negative']",['positive'],si
+158,this little camera has created a marriage between myself and nikon. never knew i could love a digital camera so much .,['camera'],['camera'],si,['little'],['negative'],['positive'],no
+159,the software that comes with it is amazing and the online service that comes free is really very neat. clean clear and well focused on over 95 % of all photos taken by a beginner .,"['service', 'with']","['software', 'online', 'service']",si,"['online', 'free']","['NA', 'positive']","['positive', 'NA1', 'positive']",si
+160,100 % perfect if you put some thought and time into reading the manual before you take the photos .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+161,i took the camera and just gave it to someone .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+162,no instructions .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+163,just point and shoot and the photos were great .,"['point', 'shoot', 'great']",['photo'],no,['NA'],['NA'],['positive'],no
+164,just imagine if you place a bit of knowledge when you take your photos .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+165,the memory card fit nicely since i also have a pocket pc and it automatically installed a picture software on my pda wolla .,['installed'],"['memory', 'card']",no,['NA'],['NA'],"['NA1', 'positive']",no
+166,my pda becames a digital album .,['album'],['NA1'],no,['digital'],['NA'],['NA1'],no
+167,i have a 128mb card in it and can shoot over 150 hi res photos .,"['res', 'shoot']",['NA1'],no,['hi'],['positive'],['NA1'],no
+168,if you have to buy a camera on a buget this has got to be the one .,['NA'],['camera'],no,['NA'],['NA'],['positive'],no
+169,go get it .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+170,before they are sold out .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+171,great camera  i have been using this for several months and got excellent results  simple friendly usage  in many scenes indoor  outdoor  snow  close up macro etc.,"['results', 'months', 'camera', 'usage', 'scenes', 'snow']",['camera'],si,"['outdoor', 'simple', 'friendly', 'several', 'indoor', 'great', 'excellent', 'macro', 'many', 'got']","['NA', 'positive', 'positive', 'NA', 'NA', 'positive', 'positive', 'NA', 'positive', 'negative']",['positive'],si
+172,i bought my nikon coolpix4300 about a week ago .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+173,this is my first digital camera and i can say that i am quite impressed with the features that it has .,"['camera', 'say']","['camera', 'feature']",si,"['digital', 'first']","['NA', 'positive']","['positive', 'positive']",si
+174,it is easy enough to use for a beginner like me but it has plenty of features for me to grow into .,['has'],['use'],no,['has'],['positive'],['positive'],si
+175,i particularly like the way it aids me in taking my macro shots .,['NA'],['macro'],no,['NA'],['NA'],['positive'],no
+176,my friends were impressed with the quality of the pictures i took .,['NA'],"['picture', 'quality']",no,['NA'],['NA'],"['NA1', 'positive']",no
+177,one downside though is that autofocus does not work well when battery is low .,['NA'],['autofocus'],no,['NA'],['NA'],['negative'],no
+178,i assume this is the case for most cameras since it does not have enough power to do autofocus .,"['cameras', 'power']",['NA1'],no,"['most', 'enough']","['positive', 'positive']",['NA1'],no
+179,battery life is ok .,['NA'],"['battery', 'life']",no,['NA'],['NA'],"['NA1', 'positive']",no
+180,i plan on buying a second battery and a larger cf for it .,"['battery', 'cf', 'cf']",['NA1'],no,"['larger', 'second']","['NA', 'negative']",['NA1'],no
+181,great camera  and for the price you can 't beat it .,"['camera', 'price']",['camera'],si,['great'],['positive'],['positive'],si
+182,i 've been using it for about 3 months now .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+183,i found the controls very intuitive and learned how to manuver through the menus quickly .,['learned'],['control'],no,['NA'],['NA'],['positive'],no
+184,the quality is superb .,['NA'],['quality'],no,['NA'],['NA'],['positive'],no
+185,the small size is perfect for my little hands  but may perhaps be uncomfortable or awkward for a bigger person .,"['person', 'size', 'hands']",['size'],si,"['little', 'bigger', 'small', 'awkward', 'uncomfortable']","['negative', 'NA', 'negative', 'negative', 'negative']",['positive'],no
+186,we use older versions 880  885 of this model in the office and i find them to produce excellent quality photos .,"['photos', 'versions', 'find']",['NA1'],no,"['older', 'excellent', 'find']","['negative', 'positive', 'NA']",['NA1'],no
+187,the 4300 is a very durable  compact package  and i find nikon to be a brand that i can trust .,"['package', 'find']","['nikon', '4300']",no,"['compact', 'durable']","['positive', 'positive']","['NA1', 'positive']",si
+188,it comes with a 16mb flash card that you will need to upgrade .,['card'],['NA1'],no,['16mb'],['NA'],['NA1'],no
+189,we got a 256mb card  and have been hard-pressed to fill it over a weekend .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+190,the only drawbacks that i have noticed .,['drawbacks'],['NA1'],no,['only'],['NA'],['NA1'],no
+191,it comes with a rechargable battery that does not seem to last all that long  especially if you use the flash a lot .,['battery'],['battery'],si,['rechargable'],['NA'],['negative'],no
+192,so  it 's a good idea to purchase an extra battery to insure that you are not left hanging .,"['idea', 'battery']",['NA1'],no,"['good', 'extra']","['positive', 'positive']",['NA1'],no
+193,it does not have an auto-focus assist light which is nice for taking shots in low-light situations it allows the camera to focus in low light .,"['light', 'situations']","['auto-focus', 'assist', 'light']",si,"['light', 'low']","['positive', 'positive']","['NA1', 'NA1', 'negative']",no
+194,i would say that this is not a major issue  but it can be slightly annoying if you care about these things .,"['issue', 'annoying']",['NA1'],no,['major'],['NA'],['NA1'],no
+195,it has a 3x optical zoom  which is average for these cameras .,['zoom'],"['optical', 'zoom']",si,['optical'],['NA'],"['NA1', 'negative']",no
+196,for more  you sacrifice weight and size . more optical zoom requires more glass and focal length .,"['more', 'size']",['NA1'],no,"['more', 'more']","['NA', 'NA']",['NA1'],no
+197,it does have a digital zoom on top of the optical zoom  but you sacrifice quality .,"['zoom', 'sacrifice']",['NA1'],no,"['digital', 'optical']","['NA', 'NA']",['NA1'],no
+198,i set the camera to the  manual  mode for one main reason .,"['mode', 'reason']",['NA1'],no,"['manual', 'main']","['NA', 'NA']",['NA1'],no
+199,in any other mode it autofocuses continuously and burns batteries .,['mode'],['NA1'],no,['other'],['positive'],['NA1'],no
+200,in manual  you can set it to  single af  where it will focus by depressing the shudder button prior to taking the pic  this is not really a hinderance  you just have to be familiar with its menus and features .,"['hinderance', 'af']",['NA1'],no,"['familiar', 'single']","['negative', 'NA']",['NA1'],no
+201,in reality  these are the only drawbacks this camera has  much less than many other models .,"['models', 'drawbacks']",['NA1'],no,"['many', 'other', 'only']","['positive', 'positive', 'NA']",['NA1'],no
+202,it is easy to  focus  in on the drawbacks  so do n't think i hate this camera .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+203,it really is an awesome camera that is hard to beat for general-to moderate snapping .,['camera'],['camera'],si,['awesome'],['positive'],['positive'],si
+204,for work  we use them in the field often  and they hold up really well .,['hold'],['NA1'],no,['NA'],['NA'],['NA1'],no
+205,they take excellent macro shots as well .,['shots'],['macro'],no,"['excellent', 'macro']","['positive', 'NA']",['positive'],si
+206,the menus and features are easy to manipulate and access  and it takes silent movies .,"['movies', 'takes']",['menu'],no,"['silent', 'takes']","['positive', 'positive']",['positive'],si
+207,i compared this to a lot of other cameras  believe me  it 's value for money .,['cameras'],['camera'],no,['other'],['positive'],['positive'],si
+208,the picturers are amazing .,['NA'],['picture'],no,['NA'],['NA'],['positive'],no
+209,do n't waste time looking at anything else  just buy this one .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+210,it do n't get any better then the nikon 4300 .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+211,i am a nikon fan  and owned and used slr nikon fe  n50 and n90s for many many years .,['years'],['NA1'],no,"['many', 'owned', 'used']","['positive', 'positive', 'negative']",['NA1'],no
+212,recently bought this coolpix 4300 along with a 256mb ultra flash card . as expected  i happily found that qualities of the picture are excellent with 3m-4m pixel / fine combos and many of the user-friendly functions are very similar to slr models  and with added convenience of a digital camera that you can see pictures immediately .,"['slr', 'qualities', 'user', 'card']","['picture', 'quality', 'function']",no,['256mb'],['NA'],"['NA1', 'positive', 'positive']",no
+213,i particularly like the  txt  file which records all the control information for all the pictures you take.,['NA'],"['txt', 'file']",no,['NA'],['NA'],"['NA1', 'positive']",no
+214,the compact digital camera is especially useful if you have little children around and you can always take the camera with you and take many pictures of them .,"['children', 'camera', 'pictures', 'take']",['size'],no,"['compact', 'many', 'digital', 'little', 'take']","['positive', 'positive', 'NA', 'negative', 'positive']",['positive'],si
+215,try to buy a high capacity ultra card  as it 's 2x as faster as the regular cf card .,"['2x', 'capacity', 'card']",['NA1'],no,"['regular', 'high']","['negative', 'positive']",['NA1'],no
+216,consider the time you save during picture taking especially not missing a good moment and during download  it 's well worth the little extra money .,"['moment', 'money']",['NA1'],no,"['good', 'extra', 'little']","['positive', 'positive', 'negative']",['NA1'],no
+217,an extra rechargeable en-el 1 battery is also handy  so you will seldom run into  out of battery  situation .,['battery'],['NA1'],no,"['rechargeable', 'extra']","['NA', 'positive']",['NA1'],no
+218,use the rechargeable because that saves you money and helps the environment in a long run .,['run'],['NA1'],no,['long'],['positive'],['NA1'],no
+219,one thing puzzles me is that for  fine and 2200 +  quality pictures  one ultra 256mb cf card can only hold 130-140 pics  but the size of the pictures are only around 1.2 mb  the math does not add up .,['size'],['NA1'],no,['pictures'],['positive'],['NA1'],no
+220,i would expecct the card to hold over 200 pictures for size of 1.2 mb/per .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+221,anybody can explain that .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+222,a nikon will make you happier and leave you lots of good memories  as always .,['memories'],['nikon'],no,"['good', 'leave']","['positive', 'NA']",['positive'],si
+223,i highly recommend this camera to anyone looking for a good digital camera that takes great pictures yet does n't take weeks to figure out how to operate .,"['camera', 'pictures']","['camera', 'picture']",si,"['digital', 'good', 'great']","['NA', 'positive', 'positive']","['positive', 'positive']",si
+224,we take this camera with us everywhere and are constantly amazed at the quality of the pictures that we get and the number of different ways the camera allows for pictures to be taken .,"['ways', 'allows', 'amazed']","['picture', 'quality']",no,"['different', 'amazed']","['negative', 'positive']","['NA1', 'positive']",si
+225,i am a picture fanatic so i consider myself picky and if your the same way this camera will not let you down.now buy it .,['way'],['camera'],no,['same'],['NA'],['positive'],no
+226,first of all  let 's start with my needs . 1 $ 500 budget 2 4mp resolution  3 optical clarity and color  4 fast - very little shutter lag and quick sep-up for next picture  5 compact size  and 6 good camera grip to minimize camera shake .,"['resolution', 'for']",['NA1'],no,"['fast', 'for']","['positive', 'positive']",['NA1'],no
+227,for three months  i 've researched the internet and magazines  queried various sales personnel  and took hands-on in-store test drives .,['personnel'],['NA1'],no,['various'],['NA'],['NA1'],no
+228,and i finally settled on the nikon coolpix 4300 .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+229,i have it for a week now  and this camera has exceeded my expectations .,['exceeded'],['camera'],no,['NA'],['NA'],['positive'],no
+230,the daylight pictures are brilliant and the indoor shots are very good provided that your subject is no more than about 8 feet away .,"['feet', 'shots']","['picture', 'indoor', 'shot']",no,['indoor'],['NA'],"['positive', 'NA1', 'positive']",no
+231,the shutter lag is on par with what i 've experienced with point and shoot 35mm and aps film cameras and the next frame advance is about a couple seconds using a high speed 12x 128mb compact flash card a salesperson recommended the high speed card since next frame advance speed was important to me - and it was only a few dollars more .,"['speed', 'advance', 'couple', 'dollars', 'card', 'advance', 'mm']",['NA1'],no,"['compact', 'next', 'high', '128mb']","['positive', 'negative', 'positive', 'NA']",['NA1'],no
+232,uploading the images to my windows-based pc is very fast and simple .,['pc'],"['image', 'download']",no,['NA'],['NA'],"['NA1', 'positive']",no
+233,the only drawbacks i 've encountered are . 1 indoor shots from a distance > 8ft lack contrast and color  but i 've found this to be a problem with all cameras with built-in flashes that i 've used even on a nikon slr .,"['problem', 'drawbacks', '8ft']","['indoor', 'shot']",no,"['only', 'from']","['NA', 'positive']","['NA1', 'negative']",no
+234,right now  i 'm researching for an inexpensive slave flash unit that 's designed for digital cameras .,"['cameras', 'unit']",['NA1'],no,"['digital', 'inexpensive']","['NA', 'positive']",['NA1'],no
+235,2 the battery life seems to be on the short side but adequate for most situations .,"['side', 'situations', 'adequate']","['battery', 'life']",no,"['most', 'short', 'adequate']","['positive', 'negative', 'positive']","['NA1', 'negative']",si
+236,i got 45 outdoor and 15 indoor shots with the monitor on turning the camera off and on over a 4 hour period before the battery died .,['shots'],['NA1'],no,['indoor'],['NA'],['NA1'],no
+237,an extra for a back-up battery would be a good investment .,"['investment', 'battery']",['NA1'],no,['good'],['positive'],['NA1'],no
+238,3 the picture editing software it came with is adequate  but not very robust .,['robust'],['software'],no,['robust'],['positive'],['negative'],no
+239,i 'll still use my photosuite for editing .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+240,one more thing about indoor shots - many of the reviews knocked this camera for low light focusing .,"['shots', 'thing', 'light']",['NA1'],no,"['low', 'more', 'indoor']","['positive', 'NA', 'NA']",['NA1'],no
+241,just for the heck of it  i took it into my dark kitchen with only indirect light coming in though the door  and the focusing was just fine .,"['light', 'heck', 'kitchen']",['NA1'],no,"['dark', 'indirect', 'fine']","['negative', 'NA', 'positive']",['NA1'],no
+242,in summary  i love this camera and would whole-heartedly recommend this to anyone wanting a high quality point and shoot camera in the medium price range .,"['price', 'point']",['camera'],no,"['high', 'medium']","['positive', 'NA']",['positive'],si
+243,- since i wrote the review above in january 2003  i still love this camera .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+244,i 've picked up a few accessories that i found to be useful .,['accessories'],['NA1'],no,['few'],['NA'],['NA1'],no
+245,i bought a digi-slave dsf-1s flash unit .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+246,i do n't use a bracket  i just hold it above my head and aim the flash with my left hand .,"['hand', 'aim']",['NA1'],no,"['left', 'aim']","['negative', 'positive']",['NA1'],no
+247,i also got a ur-e 4 step down ring adapter  lc-e 900 lens cap  and the nikon 28mm filter set .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+248,this provides added protection for the camera lens and allows the use of filters .,"['protection', 'allows']",['NA1'],no,['added'],['NA'],['NA1'],no
+249,i leave the adapter and uv filter on all the time .,['uv'],['NA1'],no,['NA'],['NA'],['NA1'],no
+250,this also allows you to turn on the camera on without having to remove the lens cap .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+251,the downside is that you might accidentally take pictures with the lens cap on  the camera wo n't fit in the small cases  and 28mm filters are expensive and hard to find .,"['cases', 'filters']",['NA1'],no,"['small', 'hard']","['negative', 'positive']",['NA1'],no
+252,great camera .,['camera'],['camera'],si,['great'],['positive'],['positive'],si
+253,i am impressed with how easy this camera is to use .,['NA'],['use'],no,['NA'],['NA'],['positive'],no
+254,it takes great pictures .,['pictures'],['picture'],no,['great'],['positive'],['positive'],si
+255,the manual is easy to understand  and it is mostly idiot proof .,"['proof', 'proof']",['manual'],no,['proof'],['positive'],['positive'],si
+256,it is small  unlike my canon slr  so it easily fits in my pocket .,['NA'],['size'],no,['NA'],['NA'],['positive'],no
+257,i have not yet figured out how to make it snap quick pictures for action shots .,['pictures'],['NA1'],no,['quick'],['positive'],['NA1'],no
+258,now where did i put that manual .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+259,do n't let my five star rating fool you .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+260,the nikon coolpix 4300 deserves six .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+261,i got this camera about a month ago and i can 't put it down .,['NA'],['camera'],no,['NA'],['NA'],['positive'],no
+262,i was considering buying the minolta f-100 and the sony dsc-p 9  but at the camera shop  realized this one went above and beyond .,['p'],['NA1'],no,['NA'],['NA'],['NA1'],no
+263,i selected the 4300 right away and have gotten high quality pictures every time .,['pictures'],"['picture', 'quality']",no,['high'],['positive'],"['NA1', 'positive']",si
+264,autofocus feels exactly like my film camera while scene and manual mode add a little fun challenge to it all .,"['mode', 'challenge', 'camera', 'mode']","['autofocus', 'scene', 'mode', 'manual', 'mode']",si,"['manual', 'little', 'mode']","['NA', 'negative', 'positive']","['positive', 'NA1', 'positive', 'NA1', 'positive']",si
+265,i would also recommend buying an extra battery and at least a 128 mb compact flash type i memory card .,"['type', 'battery', 'card']",['NA1'],no,"['compact', 'extra']","['positive', 'positive']",['NA1'],no
+266,buy this camera and savour it .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+267,i reviewed several digital cameras before settling on this one .,['cameras'],['NA1'],no,"['digital', 'several']","['NA', 'NA']",['NA1'],no
+268,this one was rated very high by several people check out this site and epinions.com .,['people'],['NA1'],no,['several'],['NA'],['NA1'],no
+269,i have not been disappointed with my purchase .,['NA'],['camera'],no,['NA'],['NA'],['positive'],no
+270,picture quality in outdoor settings is indistinguishable from 35mm .,['settings'],"['picture', 'quality']",no,['outdoor'],['NA'],"['NA1', 'positive']",no
+271,on average  indoor shots with a flash are not quite as good as 35mm .,['shots'],"['indoor', 'shot']",no,"['average', 'indoor']","['NA', 'NA']","['NA1', 'negative']",no
+272,however  the convenience of using digital far outweighs the slightly less accurate indoor pictures .,['pictures'],['NA1'],no,"['indoor', 'accurate']","['NA', 'positive']",['NA1'],no
+273,i am extremely satisfied with this camera .,['NA'],['camera'],no,['NA'],['NA'],['positive'],no
+274,i purchased it from amazon on a since discontinued promotion .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+275,buy an extra battery - life is good but still somewhat short .,['life'],['NA1'],no,"['extra', 'short']","['positive', 'negative']",['NA1'],no
+276,do n't buy this camera if you are not going to purchase a 128 megabyte card .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+277,you need the storage to hold a decent amount of shots at 4 megapixel resolution .,['amount'],['NA1'],no,['decent'],['positive'],['NA1'],no
+278,i have one thing to say to the numbskulls who complain that this camera 's controls are confusing and hard to remember .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+279,read the directions .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+280,the regular mode in this camera works for 80 % of settings .,['mode'],['NA1'],no,['regular'],['negative'],['NA1'],no
+281,the  scene  mode works well for the remainder of shots that are not going to be in a  regular  setting .,['setting'],"['scene', 'mode']",no,['regular'],['negative'],"['NA1', 'positive']",no
+282,i wish the camera had a higher optical zoom so that i could take better wildlife photos .,"['photos', 'zoom']",['NA1'],no,"['optical', 'higher', 'better']","['NA', 'NA', 'positive']",['NA1'],no
+283,however  its 3x optical setting is acceptable for 70 % of the shots that i take .,['setting'],"['optical', 'setting']",si,['optical'],['NA'],"['NA1', 'positive']",no
+284,buy this camera  you wo n't regret it .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+285,if you 're looking for a small  compact  super resolution digital camera  you can end your search with the nikon 4300 .,"['resolution', 'camera']",['camera'],si,"['compact', 'super', 'digital', 'small']","['positive', 'positive', 'NA', 'negative']",['positive'],si
+286,after a lengthy and extensive journey for a feature-loaded  high performance  travel size camera  i initially gravitated to this little gem because of the superior picture quality 4 mega pixel .,"['pixel', 'quality', 'camera', 'journey', 'gem', 'performance']","['picture', 'quality']",si,"['mega', 'superior', 'lengthy', 'high', 'little', 'extensive']","['NA', 'positive', 'negative', 'positive', 'negative', 'NA']","['NA1', 'positive']",si
+287,after using it for about a month  i can state unequivocably that this nikon definitely delivers a huge bang for the buck .,['bang'],['nikon'],no,['huge'],['NA'],['positive'],no
+288,its easy to use and the sheer fun of being able to use an array of nikon accessories like the telephoto and wide-angle lenses is the proverbial icing on the cake .,"['lenses', 'fun', 'icing', 'angle']","['use', 'accessory']",no,"['proverbial', 'wide', 'sheer']","['NA', 'NA', 'NA']","['positive', 'positive']",no
+289,yes  the picture quality and features which are too numerous to mention are unmatched for any camera in this price range .,['features'],"['picture', 'quality', 'feature']",no,['features'],['NA'],"['NA1', 'positive', 'positive']",no
+290,the design and construction are excellent -- as is the legendary quality of the nikon optics .,['quality'],"['design', 'construction', 'optic']",no,"['legendary', 'construction']","['positive', 'NA']","['positive', 'positive', 'positive']",si
+291,i own a 35mm slr camera and this is my second digital .,['NA'],['NA1'],no,"['second', 'digital']","['negative', 'NA']",['NA1'],no
+292,if you 're seeking that elusive state of photographic euphoria that is free of buyer 's remorse and filled with cool  then travel to the world of the coolpix 4300 .,"['euphoria', 'state']",['NA1'],no,"['elusive', 'photographic', 'filled']","['NA', 'NA', 'negative']",['NA1'],no
+293,had it for a week .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+294,there are so many functions in this little  yet powerful camera .,"['functions', 'camera']",['camera'],si,"['powerful', 'many', 'little']","['positive', 'positive', 'negative']",['positive'],si
+295,seriously . i love it .,['NA'],['camera'],no,['NA'],['NA'],['positive'],no
+296,my room is so dark and when i tried taking pics of it with my old camera  they came out black  but with this  they look the same in the picture as in real life .,"['life', 'camera', 'look']",['NA1'],no,"['old', 'real']","['positive', 'positive']",['NA1'],no
+297,better actually cause my carpet looks clean  lol .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+298,but this camera is great .,['NA'],['camera'],no,['NA'],['NA'],['positive'],no
+299,the picture quality is amazing and you can connect it to your tv and could make silent movies that way if you wanted to .,['movies'],"['picture', 'quality', 'movie']",no,"['silent', 'connect', 'make']","['positive', 'positive', 'negative']","['NA1', 'positive', 'positive']",si
+300,i can 't connect it to my computer though  but that 's a problem with windows me  not the camera .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+301,if you have windows me you should upgrade to xp anyway  lol .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+302,but it works perfectly fine on my parent 's computer .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+303,it does have a lense cap  but it wo n't let you take pics with it on which is real good .,['let'],"['lense', 'cap']",no,['real'],['positive'],"['NA1', 'positive']",si
+304,the battery recharges ral fast and the recharger thingy that comes with is real nice .,['NA'],['battery'],no,['real'],['positive'],['positive'],si
+305,ooh  and i dropped it and it still works fine . this little camera has so many features i have n't even gotten to all of them yet .,['NA'],['camera'],no,"['many', 'fine']","['positive', 'positive']",['positive'],si
+306,i did quite a bit of research before buying this camera  and this one had everything i was looking for .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+307,it 's easy for beginners to use  but has features that more serious photographers will love  so it 's an excellent camera to grow into .,"['photographers', 'camera', 'has']","['use', 'feature', 'camera']",si,"['excellent', 'serious', 'has']","['positive', 'negative', 'positive']","['positive', 'positive', 'positive']",si
+308,it 's light weight enough to take with you everywhere  but powerful enough to get outstanding pix .,"['weight', 'pix', 'enough']","['weight', 'picture']",si,"['outstanding', 'powerful', 'light']","['positive', 'positive', 'positive']","['positive', 'positive']",si
+309,i love the continuous shot mode  which allows you to take up to 16 pix in rapid succession -- great for action shots .,"['mode', 'succession']","['continuous', 'shot', 'mode']",si,"['continuous', 'great', 'rapid']","['negative', 'positive', 'positive']","['NA1', 'NA1', 'positive']",si
+310,i 'm amazed at the photo quality -- prints are indistinguishable from 35mm prints .,['NA'],"['photo', 'quality', 'print']",no,['NA'],['NA'],"['NA1', 'positive', 'positive']",no
+311,i only have one complaint  and that is the 8mb card included .,['card'],"['8mb', 'card']",si,['NA'],['NA'],"['NA1', 'negative']",no
+312,8mb for a camera like this is a joke .,['NA'],['8mb'],no,['NA'],['NA'],['negative'],no
+313,a card with more memory is a must .,['memory'],['NA1'],no,['more'],['NA'],['NA1'],no
+314,a minor quibble  since most cameras on the market still only include the 8mb cards .,['cameras'],['NA1'],no,"['most', 'minor']","['positive', 'NA']",['NA1'],no
+315,if you do any research into digital cameras  you 'll quickly find that this camera is just about the best value out there .,"['cameras', 'value', 'camera']",['NA1'],no,"['digital', 'best']","['NA', 'positive']",['NA1'],no
+316,these are the reasons i think it 's great .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+317,1 it has all the features an amatuer photo-enthusiast would want .,['NA'],['feature'],no,['NA'],['NA'],['positive'],no
+318,2 it is easy enough for my grandmother to use .,['NA'],['use'],no,['NA'],['NA'],['positive'],no
+319,3 it is very compact but the controls are so well designed that they 're still easy to use .,['designed'],"['size', 'control']",no,['designed'],['negative'],"['positive', 'positive']",no
+320,4 it has optional lenses like wide angles and extra zooms .,"['angles', 'zooms', 'lenses', 'zooms']",['NA1'],no,"['optional', 'wide', 'extra']","['NA', 'NA', 'positive']",['NA1'],no
+321,5 for  digital film  it uses compact flash cards  which are easy to find  cheap  reliable and supported by many other devices you may have at hoome .,"['devices', 'film', 'cards']",['NA1'],no,"['compact', 'digital', 'easy', 'cheap', 'many', 'other']","['positive', 'NA', 'positive', 'positive', 'positive', 'positive']",['NA1'],no
+322,6 the nikon coolpix line is a well-established line so you know support and parts are going to be available even when nikon releases a newer model .,"['line', 'model']","['nikon', 'support']",no,['newer'],['NA'],"['NA1', 'positive']",no
+323,7 picture quality is excellent .,['NA'],"['picture', 'quality']",no,['NA'],['NA'],"['NA1', 'positive']",no
+324,8 battery life is excellent .,['NA'],"['battery', 'life']",no,['NA'],['NA'],"['NA1', 'positive']",no
+325,9 3x built-in optical zoom is a lot for this price range .,['zoom'],"['optical', 'zoom']",si,['optical'],['NA'],"['NA1', 'positive']",no
+326,10 great price for all the features .,['price'],['price'],si,['great'],['positive'],['positive'],si
+327,here 's what you may miss or be annoyed by with this camera .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+328,1 no direct firewire to the camera .,['firewire'],['firewire'],si,['direct'],['negative'],['negative'],si
+329,there is usb  though .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+330,2 the camera is so small that when you attach some lenses i have the 19mm wide-angle -- wc-e 68  the optical viewfinder is partially obscured .,"['viewfinder', 'angle']",['viewfinder'],si,['optical'],['NA'],['negative'],no
+331,this does n't affect the picture  of course .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+332,you just have to use the lcd viewfinder to see the whole picture .,['picture'],['NA1'],no,['whole'],['positive'],['NA1'],no
+333,it 's no problem for me personally .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+334,3 battery has to be removed to recharge .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+335,4 an ac adapter for powering the camera while the battery 's out is not included  although one can be purchased separately .,['NA'],['NA1'],no,['NA'],['NA'],['NA1'],no
+336,5 two different adapters -- ur-e 4 and ur-e 7 -- are required for some attachment lenses .,"['adapters', 'e']",['NA1'],no,"['different', 'e']","['negative', 'positive']",['NA1'],no
+337,most of these  annoyances   though  are comparable to what you 'll find on other cameras in this price range .,['cameras'],['NA1'],no,['other'],['positive'],['NA1'],no
+338,i am new to the whole digital camera thing  well  new to the whole camera thing period  really .,['thing'],['NA1'],no,"['digital', 'whole', 'new']","['NA', 'positive', 'positive']",['NA1'],no
+339,this camera was affordable  very easy to learn  and produces spectacular images .,['images'],"['price', 'learn', 'image']",no,"['easy', 'spectacular']","['positive', 'positive']","['positive', 'positive', 'positive']",si
+340,the auto-mode is good enough for most shots but the 4300 also boasts 12 versatile scene modes as well as a manual mode though i admit i have n't played with it too much on manual .,"['mode', 'shots', 'modes', 'mode']","['auto', 'mode', 'scene', 'mode', 'manual', 'mode']",si,"['most', 'versatile', 'manual', 'boasts']","['positive', 'positive', 'NA', 'NA']","['NA1', 'positive', 'NA1', 'positive', 'NA1', 'positive']",si
+341,it 's size also makes it ideal for travel .,['NA'],['size'],no,['NA'],['NA'],['positive'],no
+342,overall the nikon 4300 is a very dependable  robust  and useful little camera .,['camera'],['camera'],si,"['dependable', 'robust', 'little', 'useful']","['positive', 'positive', 'negative', 'positive']",['positive'],si
+343,awesome camera with huge print quality in a tiny package .,"['quality', 'camera', 'package']","['camera', 'print', 'quality']",si,"['tiny', 'awesome', 'huge']","['positive', 'positive', 'NA']","['positive', 'NA1', 'positive']",si
+344,the same 4mp chip from the 4500 camera  plus a 3x zoom with the ability to expand upon that with extenders  great closeup mode  long lasting rechargable battery  etc etc.,"['mode', 'battery', 'chip', 'etc', 'zoom']","['closeup', 'mode', 'battery']",si,"['great', 'closeup', 'rechargable', 'same']","['positive', 'NA', 'NA', 'NA']","['NA1', 'positive', 'positive']",si
+345,in my opinion it 's the best camera for the money if you 're looking for something that 's easy to use  small good for travel  and provides excellent  sharp images .,"['images', 'camera', 'provides']",['camera'],si,"['sharp', 'small', 'excellent', 'best', 'provides']","['positive', 'negative', 'positive', 'positive', 'NA']",['positive'],si
